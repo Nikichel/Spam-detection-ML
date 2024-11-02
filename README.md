@@ -8,7 +8,7 @@
 
 # Установка и запуск
  - Склонируйте репозиторий:
-`git clone `
+`git clone https://github.com/Nikichel/Spam-detection-ML`
  - Установите библиотеки:
 `pip install pandas scikit-learn`
  - Запустите:
